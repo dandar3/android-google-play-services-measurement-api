@@ -10,6 +10,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-measurement-sdk-api"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-components"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-iid"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-measurement-connector"/>
 	<classpathentry kind="output" path="bin/classes"/>
